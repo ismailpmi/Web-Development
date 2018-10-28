@@ -1,0 +1,10 @@
+signup table:
+
+user
+name
+code
+user_name
+password
+email_id
+phone
+----------------------------------
